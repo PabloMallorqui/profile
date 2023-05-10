@@ -1,0 +1,67 @@
+body {
+  background-color: #FEFAE0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #283618;
+  font-size: medium;
+  line-height: 150%;
+}
+
+h1, h2 {
+  color: #283618;
+  font-family: 'Wix Madefor Text', sans-serif;
+  font-size: large;
+  line-height: 150%;
+}
+
+a {
+  color: #606C38;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #283618;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #DDA15E;
+  border: 1px solid #BC6C25;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+}
+
+img {
+  max-width: 30%;
+  border-radius: 50px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#link {
+  background: #BC6C25;
+  padding: 15px;
+  border-radius: 20px;
+  border: 1px solid #283618;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.fa-brands {
+  font-size: 30px;
+}
